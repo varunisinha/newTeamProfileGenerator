@@ -1,7 +1,7 @@
 # 10 Object-Oriented Programming: Team Profile Generator
 
-### Link to my explanation video: 
-### Link to my github repo: 
+### Link to my explanation video: https://github.com/varunisinha/newTeamProfileGenerator/blob/main/project-video/teamProfileGenerator.mp4.zip
+### Link to my github repo: https://github.com/varunisinha/newTeamProfileGenerator
 
 ## Your Task
 
