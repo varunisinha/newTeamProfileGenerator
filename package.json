@@ -1,0 +1,25 @@
+{
+  "name": "homework-week14",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunisinha/team-profile-generator.git"
+  },
+  "author": "Varuni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunisinha/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/varunisinha/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
